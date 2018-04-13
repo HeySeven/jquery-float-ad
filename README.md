@@ -4,6 +4,9 @@ jquery全屏随机飘窗广告插件
 ### 在页面中使用
 
 在页面中引入 jQuery 库和 jquery-float-ad 插件，然后调用 `floatAd` 方法即可，漂浮速度可通过参数调整。
+
+查看：[线上demo](http://hey-7.cn/jquery-float-ad/demo.html) 
+
 ```html
 <!DOCTYPE html>
 <html>
